@@ -2,3 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC WOO 10 LO3 GitHub related
+ZCZC W00 15 L05 Quiz W00
+ZCZC W00 200 L02 Online class
+ZCZC W00 60 L10 Try midTerm problems week 0
+ZCZC W00 10 L04 GitHub Pages related
