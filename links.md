@@ -20,3 +20,17 @@ permalink: LINKS/
 
 	This tutorial demonstrates the process of creating a bash script. Users of Linux and macOS can interact with their operating systems through Bash, a Unix command line interface. Bash script simplify the process of combining commands into a cohesive program. In Bash scripts, commands executed from the terminal operate seamlessly.
 
+
+## WEEK 02
+
+1. **[Cyber Security Introduction (Cyber Security Part 1)](https://www.youtube.com/watch?v=rcDO8km6R6c)**
+
+Watching this video enhances my understanding that the essence of Cyber Security lies in averting data loss, avoiding system downtime, thwarting malicious exploitation, and ensuring adherence to laws and regulations. Additionally, the video emphasizes the principle of refraining from causing harm.
+
+2.  **[The Beginner’s Guide To Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)**
+
+This website proves highly beneficial for novices in the realm of online privacy. Upon perusing its contents, I gained insight into the Pyramid of Privacy, which educates us on safeguarding our data from the foundational level to the pinnacle, encompassing aspects such as operating systems, scripts, and cookies. Furthermore, within this section, I acquired knowledge regarding risk assessment and corresponding solutions.
+
+3. **[Employee Security Policy (Cyber Security Part 2)](https://www.youtube.com/watch?v=CivG_2UqKMg)**
+
+This video enlightens me on aspects of an Employee Security Policy. It discusses Employee Bonding and Buying, highlighting several key insights: valuing relationships over products, discerning employees' intentions, proactively addressing issues before they escalate, empathetically understanding employee challenges and identifying solutions, recognizing that managers are also employees, and establishing a network of influencers to garner support.
