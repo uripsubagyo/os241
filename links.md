@@ -34,3 +34,32 @@ This website proves highly beneficial for novices in the realm of online privacy
 3. **[Employee Security Policy (Cyber Security Part 2)](https://www.youtube.com/watch?v=CivG_2UqKMg)**
 
 This video enlightens me on aspects of an Employee Security Policy. It discusses Employee Bonding and Buying, highlighting several key insights: valuing relationships over products, discerning employees' intentions, proactively addressing issues before they escalate, empathetically understanding employee challenges and identifying solutions, recognizing that managers are also employees, and establishing a network of influencers to garner support.
+
+# WEEK 03
+
+1.  **[Operating System Concepts: File-System Interface](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch13.pptx)**
+
+
+    This slide covers the role of file systems, their interfaces, design considerations, and trade-offs, encompassing access methods, file sharing, file locking, directory structures, and file-system protection.
+
+2. **[How to encrypt and decrypt files with GPG?](https://www.thesecuritybuddy.com/pgp-and-gpg/how-to-encrypt-and-decrypt-files-with-gpg/)**
+
+```bash
+ To encrypt a file with GPG:
+	gpg --armor --output output.asc --encrypt --recipient <recipient-userid> <file>
+
+To decrypt a file with GPG:
+	gpg --output file.txt --decrypt output.asc
+
+To decrypt a file with GPG symmetric key:
+	gpg --output file.txt -d output.asc
+
+To encrypt a file with GPG symmetric key:
+	gpg --armor --output output.asc symmetric file.txt
+```
+
+3. **[File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html)**
+
+	The concept of a "file" denotes a collection of interconnected data stored on secondary or non-volatile mediums like magnetic disks, optical disks, or tapes. I/O functionality accommodates various storage device types. Upon user logout, the files stored on a disk or similar storage medium persist. For an operating system to identify it, a File Structure must adhere to a predefined format. The operating system's ability to differentiate between different file types, such as text files, binary files, and source files, is known as file typing.
+
+
