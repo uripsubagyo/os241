@@ -25,15 +25,15 @@ permalink: LINKS/
 
 1. **[Cyber Security Introduction (Cyber Security Part 1)](https://www.youtube.com/watch?v=rcDO8km6R6c)**
 
-Watching this video enhances my understanding that the essence of Cyber Security lies in averting data loss, avoiding system downtime, thwarting malicious exploitation, and ensuring adherence to laws and regulations. Additionally, the video emphasizes the principle of refraining from causing harm.
+	Watching this video enhances my understanding that the essence of Cyber Security lies in averting data loss, avoiding system downtime, thwarting malicious exploitation, and ensuring adherence to laws and regulations. Additionally, the video emphasizes the principle of refraining from causing harm.
 
 2.  **[The Beginner’s Guide To Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/)**
 
-This website proves highly beneficial for novices in the realm of online privacy. Upon perusing its contents, I gained insight into the Pyramid of Privacy, which educates us on safeguarding our data from the foundational level to the pinnacle, encompassing aspects such as operating systems, scripts, and cookies. Furthermore, within this section, I acquired knowledge regarding risk assessment and corresponding solutions.
+	This website proves highly beneficial for novices in the realm of online privacy. Upon perusing its contents, I gained insight into the Pyramid of Privacy, which educates us on safeguarding our data from the foundational level to the pinnacle, encompassing aspects such as operating systems, scripts, and cookies. Furthermore, within this section, I acquired knowledge regarding risk assessment and corresponding solutions.
 
 3. **[Employee Security Policy (Cyber Security Part 2)](https://www.youtube.com/watch?v=CivG_2UqKMg)**
 
-This video enlightens me on aspects of an Employee Security Policy. It discusses Employee Bonding and Buying, highlighting several key insights: valuing relationships over products, discerning employees' intentions, proactively addressing issues before they escalate, empathetically understanding employee challenges and identifying solutions, recognizing that managers are also employees, and establishing a network of influencers to garner support.
+	This video enlightens me on aspects of an Employee Security Policy. It discusses Employee Bonding and Buying, highlighting several key insights: valuing relationships over products, discerning employees' intentions, proactively addressing issues before they escalate, empathetically understanding employee challenges and identifying solutions, recognizing that managers are also employees, and establishing a network of influencers to garner support.
 
 # WEEK 03
 
@@ -61,5 +61,23 @@ To encrypt a file with GPG symmetric key:
 3. **[File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html)**
 
 	The concept of a "file" denotes a collection of interconnected data stored on secondary or non-volatile mediums like magnetic disks, optical disks, or tapes. I/O functionality accommodates various storage device types. Upon user logout, the files stored on a disk or similar storage medium persist. For an operating system to identify it, a File Structure must adhere to a predefined format. The operating system's ability to differentiate between different file types, such as text files, binary files, and source files, is known as file typing.
+
+## WEEK04
+
+1. **[Addressing, Shared Lib, & Pointer](https://docos.vlsm.org/Slides/os04.pdf)**
+
+	In this slide, I gain insights into providing a detailed description of various ways of organizing memory hardware, discussing various memory-management techniques. Additionally, it offers an in-depth exploration of the Intel Pentium, which supports both pure segmentation and segmentation with paging. The slide also references Contiguous Memory Allocation, Paging, the Structure of the Page Table, and Swapping.
+
+2. **[Memory Management¶](https://docs.kernel.org/admin-guide/mm/index.html)**
+
+	The Linux memory management subsystem is responsible for supervising the system's memory. This encompasses implementing demand paging and virtual memory, allocating memory for both kernel internal structures and user space programs, mapping files into process address spaces, and various other tasks.
+
+3. **[Memory Adressing in C](https://www.w3schools.com/c/c_memory_address.php#:~:text=When%20a%20variable%20is%20created,stored%20in%20this%20memory%20address.)**
+
+	This link pertains to the addressing system within the C programming language.
+
+4.  **[What are the differences between static and dynamic (shared) library linking?](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)** 
+
+	Linking is the process of combining external programs required by the program we write for its successful execution. Static and dynamic linking are two processes of assembling and merging multiple object files to create a single executable. Here, we will discuss the differences between them.
 
 

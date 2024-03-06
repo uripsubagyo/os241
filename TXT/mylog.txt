@@ -20,9 +20,16 @@ ZCZC W02 80 L10 Try Midterm Problem W02
 ZCZC W02 10 L03 Github Related
 ZCZC W02 100 L70 Study for other course
 ZCZC W03 200 L02 Offline Class
-ZCZC W03 10 L05 Quiz Week 02
+ZCZC W03 10 L05 Quiz Week 03
 ZCZC W03 100 L09 Weekly Assignments W03
 ZCZC W03 60 L10 Try Midterm Problem
 ZCZC W03 60 L43 Review
 ZCZC W03 30 L70 Study Other course 
 ZCZC W03 60 L99 PopQuiz W03
+ZCZC W04 200 L02 Oflline Class
+ZCZC W04 15 L05 Quiz
+ZCZC W04 100 L09 Weekly Assignments
+ZCZC W04 120 L70 Study Other Courser
+ZCZC W04 60 L10 Try Midterm Problem
+ZCZC W04 10 L03 Github Related
+ZCZC W04 60 L99 PopQuiz
