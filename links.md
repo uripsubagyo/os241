@@ -80,4 +80,19 @@ To encrypt a file with GPG symmetric key:
 
 	Linking is the process of combining external programs required by the program we write for its successful execution. Static and dynamic linking are two processes of assembling and merging multiple object files to create a single executable. Here, we will discuss the differences between them.
 
+## WEEK05
 
+
+1. **[What is Demand Paging in OS (Operating System)?](https://www.javatpoint.com/os-demand-paging)** 
+
+	In computer operating systems, demand paging is a virtual memory management technique employed instead of anticipatory paging. With demand paging, the operating system transfers a disk page into physical memory solely when it's accessed and not already present in memory, indicated by a page fault. 
+
+
+
+2. **[What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ)** 
+
+	Put simply, the analogy between physical memory and virtual memory can be likened to the process of shipping inventory to a warehouse. Memory corresponds to the storage capacity of the warehouse, while virtual memory represents incoming shipments being managed either for storage in their designated location or for immediate use within the facility, whether for further processing or operational functions.
+
+3. **[Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)** 
+
+	Virtual Memory is a method of managing storage where secondary memory is treated as an extension of the main memory. It enables programs to utilize addresses that are translated into corresponding machine addresses, thereby allowing a clear distinction between memory system addresses for physical storage locations and program addresses for memory references.

@@ -33,3 +33,11 @@ ZCZC W04 120 L70 Study Other Courser
 ZCZC W04 60 L10 Try Midterm Problem
 ZCZC W04 10 L03 Github Related
 ZCZC W04 60 L99 PopQuiz
+ZCZC W05 200 L02 Offline Class
+ZCZC W05 30 L99 PopQuiz
+ZCZC W05 10 L03 Github Related
+ZCZC W05 60 L09 Weekly Assignments
+ZCZC W05 15 L05 Quiz
+ZCZC W05 60 L10 Try Midterm Problem W05
+ZCZC W05 60 L70 Study Other class
+ZCZC W05 30 L43 Review
