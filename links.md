@@ -96,3 +96,18 @@ To encrypt a file with GPG symmetric key:
 3. **[Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)** 
 
 	Virtual Memory is a method of managing storage where secondary memory is treated as an extension of the main memory. It enables programs to utilize addresses that are translated into corresponding machine addresses, thereby allowing a clear distinction between memory system addresses for physical storage locations and program addresses for memory references.
+
+### WEEK06
+
+1.  **[Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)** 
+
+	A process essentially refers to a program that is currently running. Its execution follows a sequential order. It is characterized as a unit of work within the system. Once a program is loaded into memory and begins execution, it is segmented into four parts: stack, heap, text, and data. The diagram below illustrates a simplified arrangement of a process within the main memory.
+
+2. **[Threads in Operating System (OS)](https://www.javatpoint.com/threads-in-operating-system)** 
+
+	A thread, also known as a thread of execution or control, represents a singular, uninterrupted flow responsible for executing the tasks within a process. Threads are capable of operating within processes across various operating systems, and multiple threads can exist within a single process. Each thread within the same process maintains its own program counter, startup records, and control blocks. Threads are commonly described as lightweight versions of processes.
+
+3.  **fork() in C]https://www.geeksforgeeks.org/fork-system-call/)** 
+
+
+	The fork system call is utilized to generate a new process known as the child process, which operates concurrently with the process invoking the fork() call, known as the parent process. Upon the creation of a new child process, both processes proceed to execute the subsequent instruction following the fork() system call. The child process inherits the same program counter (pc), CPU registers, and open files from the parent process.

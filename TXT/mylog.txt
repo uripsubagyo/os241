@@ -41,3 +41,11 @@ ZCZC W05 15 L05 Quiz
 ZCZC W05 60 L10 Try Midterm Problem W05
 ZCZC W05 60 L70 Study Other class
 ZCZC W05 30 L43 Review
+ZCZC W06 200 L02 Offline Class
+ZCZC W06 30 L99 PopQuiz
+ZCZC W06 10 L03 Github Related
+ZCZC W06 60 L09 Weekly Assignment
+ZCZC W06 15 L05 Quiz
+ZCZC W06 90 L10 Try Midterm Problem W06
+ZCZC W06 90 L70 Study other Course
+ZCZC W06 30 L43 Review
