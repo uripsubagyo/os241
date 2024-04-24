@@ -107,7 +107,18 @@ To encrypt a file with GPG symmetric key:
 
 	A thread, also known as a thread of execution or control, represents a singular, uninterrupted flow responsible for executing the tasks within a process. Threads are capable of operating within processes across various operating systems, and multiple threads can exist within a single process. Each thread within the same process maintains its own program counter, startup records, and control blocks. Threads are commonly described as lightweight versions of processes.
 
-3.  **fork() in C]https://www.geeksforgeeks.org/fork-system-call/)** 
+3.  **[fork() in C](https://www.geeksforgeeks.org/fork-system-call/)** 
 
 
 	The fork system call is utilized to generate a new process known as the child process, which operates concurrently with the process invoking the fork() call, known as the parent process. Upon the creation of a new child process, both processes proceed to execute the subsequent instruction following the fork() system call. The child process inherits the same program counter (pc), CPU registers, and open files from the parent process.
+
+### WEEK 07
+
+1.  **[Deadlock Dan Starvation](https://www.gurupendidikan.co.id/deadlock-dan-starvation/)** 
+
+		Deadlock occurs when multiple processes are at a standstill, each waiting for the other to release resources they currently hold, leading to a halt in progress for all involved processes.
+
+2.  **[What is a semaphore? How do they work? (Example in C)](https://www.youtube.com/watch?v=ukM_zzrIeXs)**
+
+		A semaphore is an integer variable utilized as a signal determining whether a process can access the critical section of code or specific resources. There exist two classifications of semaphores: Binary, with values restricted to 0 or 1, and Counting, capable of adopting any integer value.
+
