@@ -122,3 +122,15 @@ To encrypt a file with GPG symmetric key:
 
 		A semaphore is an integer variable utilized as a signal determining whether a process can access the critical section of code or specific resources. There exist two classifications of semaphores: Binary, with values restricted to 0 or 1, and Counting, capable of adopting any integer value.
 
+
+### WEEK 08
+
+1.  **[How to build Linux From Scratch 11.2 (Chap 1-5)](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)**
+
+		These video tutorials illustrate the process of replacing the operating system on a Windows 10 PC, or any other version or OS, with your preferred Linux distribution using the Linux From Scratch 11.2 installation method.
+
+2. **Preemptive and Non-Preemptive Scheduling
+](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)**
+
+
+		Preemptive scheduling occurs when a process transitions either from the running state to the ready state or from the waiting state to the ready state. Non-preemptive scheduling, on the other hand, is applied when a process concludes or shifts from the running state to the waiting state.
