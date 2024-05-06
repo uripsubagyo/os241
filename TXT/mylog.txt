@@ -63,3 +63,10 @@ ZCZC W08 60 L10 Try Midterm Problem W08
 ZCZC W08 60 L43 Review Material
 ZCZC W08 120 L70 Study Other Course
 ZCZC W08 10 L03 Github Related
+ZCZC W09 200 L02 Offline Class
+ZCZC W09 20 L99 Pop Quiz
+ZCZC W09 60 L10 Try Midterm Problem W09
+ZCZC W09 180 L09 LFS Chapter 6-7
+ZCZC W09 60 L43 Review Material
+ZCZC W09 10 L03 Github Related
+ZCZC W09 120 L70 Study Other Course
